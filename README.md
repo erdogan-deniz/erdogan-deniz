@@ -1,2 +1,2 @@
-
-![Текст с описанием картинки](/header.png)
+</h1><img src = "/face.gif" height="32"/></h1>
+!(/header.png)
