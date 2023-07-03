@@ -18,5 +18,5 @@
 
 <h1> 
   <img src = "/materials/face.gif" height = "140"/>
-  <img src = "https://readme-typing-svg.herokuapp.com font=Fira+Code&weight=200&size=14&pause=1500&color=F7F7F7&vCenter=true&multiline=true&width=380&lines=Life+is+what+happens+while+you+are;busy+making+other+plans." alt = "Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Life+is+what+happens+when+you%E2%80%99re+busy;making+other+plans" alt="Typing SVG" />
 </h1>
