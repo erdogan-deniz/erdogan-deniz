@@ -24,4 +24,4 @@
 
 
 
-<h1 align = "left"> <img src = "/materials/face.gif" height = "150"/> <img src = "https://readme-typing-svg.herokuapp.com font=Fira+Code&weight=200&size=14&pause=1500&color=F7F7F7&vCenter=true&multiline=true&width=380&lines=Life+is+what+happens+while+you+are;busy+making+other+plans." alt="Typing SVG" /> </h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&pause=1500&color=F7F7F7&vCenter=true&multiline=true&width=380&lines=Life+is+what+happens+while+you+are;busy+making+other+plans." alt="Typing SVG" />
