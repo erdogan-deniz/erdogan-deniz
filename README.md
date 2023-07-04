@@ -1,5 +1,5 @@
 <div >
-   <img src = "Materials/66.gif" width = "1000" height = "25">
+   <img src = "Materials/66.gif" width = "1000" height = "15">
 </div>
 
 <div>
