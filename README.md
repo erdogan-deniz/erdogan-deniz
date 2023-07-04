@@ -10,7 +10,7 @@
 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡: 
 <ul>
   <li> 
-    <image src = "/Icons/c.svg"> </image> 
+    <image src = "/Icons/c.svg" height="25> </image> 
   </li>
   <li> </li>
   <li> </li>
