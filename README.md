@@ -15,17 +15,17 @@
 
   <ul>
     <li>
-    <image src = "/Icons/c.svg" height="25> </image> 
-    <image src = "/Icons/cmake.svg"height="25> </image> 
+    <image src = "/Icons/c.svg" height = "25"> </image> 
+    <image src = "/Icons/cmake.svg" height = "25"> </image> 
   </li>
   <li> 
-    <image src = "/Icons/cplusplus.svg"height="25> </image> 
+    <image src = "/Icons/cplusplus.svg"height = "25"> </image> 
   </li>
   <li>
-    <image src = "/Icons/csharp.svg"height="25> </image>
+    <image src = "/Icons/csharp.svg"height = "25"> </image>
   </li>
   <li>
-    <image src = "/Icons/dotnet.svg"height="25> </image>
+    <image src = "/Icons/dotnet.svg"height = "25"> </image>
   </li>
   <li>
     <image src = "/Icons/git.svg"height="25> </image>
