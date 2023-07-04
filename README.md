@@ -9,6 +9,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 
 
 
