@@ -14,7 +14,7 @@
   </h2>
 
    <table>
-    <tr style = "background-color: purple">
+    <tr style = "background-color:#33475b">
     <image src = "/Icons/c.svg" height = "25"> </image> 
     <image src = "/Icons/cmake.svg" height = "25"> </image> 
     <image src = "/Icons/cplusplus.svg"height = "25"> </image> 
