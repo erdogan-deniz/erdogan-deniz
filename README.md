@@ -13,8 +13,8 @@
     𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡:
   </h2>
 
-   <table style = "background-color: purple">
-    <tr>
+   <table>
+    <tr style = "background-color: purple">
     <image src = "/Icons/c.svg" height = "25"> </image> 
     <image src = "/Icons/cmake.svg" height = "25"> </image> 
     <image src = "/Icons/cplusplus.svg"height = "25"> </image> 
