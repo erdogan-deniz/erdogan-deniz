@@ -128,35 +128,8 @@
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 <div>
-  <h2>
-    𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡:
-  </h2>
-
-   <table>
-    <tr style = background-color: purple;>
-      <image src = "/Icons/c.svg" height = "25"> </image> 
-      <image src = "/Icons/cmake.svg" height = "25"> </image> 
-      <image src = "/Icons/cplusplus.svg"height = "25"> </image> 
-      <image src = "/Icons/csharp.svg"height = "25"> </image>
-      <image src = "/Icons/dotnet.svg"height = "25"> </image>
-      <image src = "/Icons/git.svg"height = "25"> </image>
-      <image src = "/Icons/github.svg"height = "25"> </image>
-      <image src = "/Icons/gitlab.svg"height = "25"> </image>
-      <image src = "/Icons/haskell.svg"height = "25"> </image>
-      <image src = "/Icons/laravel.svg"height = "25"> </image>
-      <image src = "/Icons/linux.svg"height = "25"> </image>
-      <image src = "/Icons/php.svg"height = "25"> </image>
-      <image src = "/Icons/python.svg"height = "25"> </image>
-      <image src = "/Icons/qt.svg"height = "25"> </image>
-    </tr>
-  </table>
-</div>
-
-<div>
-  <h1> 
-    <img src = "/Materials/face.gif" height = "140"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Life+is+what+happens+when+you%E2%80%99re+busy;making+other+plans." alt="Typing SVG" />
-  </h1>
+   <img src = "/Materials/face.gif" height = "140"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Life+is+what+happens+when+you%E2%80%99re+busy;making+other+plans." alt="Typing SVG" />
 </div>
 
 <div >
