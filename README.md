@@ -4,7 +4,7 @@
 
 <div>
   </h1> 
-    <image src = "/Materials/header2.png"> </image> 
+    <image src = "/Materials/header.png"> </image> 
   </h1>
 </div>
 
