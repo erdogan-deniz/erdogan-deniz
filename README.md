@@ -7,7 +7,10 @@
   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8111F7&width=435&lines=%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%B5%F0%9F%85%B0%F0%9F%86%84%F0%9F%85%BB%F0%9F%86%83+%F0%9F%86%84%F0%9F%86%82%F0%9F%85%B4%F0%9F%86%81+%F0%9F%85%B5%F0%9F%86%81%F0%9F%85%BE%F0%9F%85%BC+%F0%9F%86%81%F0%9F%86%84%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B8%F0%9F%85%B0" />
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true)
+<div align = "center">
+   <img src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500">
+   <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+</div>
 
 <div align = "center">
    <img src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500">
