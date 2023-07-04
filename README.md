@@ -1,18 +1,13 @@
 <div >
    <img src = "Materials/code.gif" width = "1000" height = "15">
-</div>
-
-<div>
-  </h1> 
-    <image src = "/Materials/title.png"> </image> 
-  </h1>
+   <image src = "/Materials/title.png"> </image> 
 </div>
 
 <div align = "center">
   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8111F7&width=435&lines=%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%B5%F0%9F%85%B0%F0%9F%86%84%F0%9F%85%BB%F0%9F%86%83+%F0%9F%86%84%F0%9F%86%82%F0%9F%85%B4%F0%9F%86%81+%F0%9F%85%B5%F0%9F%86%81%F0%9F%85%BE%F0%9F%85%BC+%F0%9F%86%81%F0%9F%86%84%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B8%F0%9F%85%B0" alt = "Typing SVG" />
 </div>
 
-𝕀 𝕙𝕒𝕧𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥 𝕚𝕟:
+𝕀 𝕙𝕒𝕧𝕖 𝕘𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥 𝕚𝕟:
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
