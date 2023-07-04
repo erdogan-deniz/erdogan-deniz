@@ -8,7 +8,7 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Denzi33&theme=matrix)](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1)
 
 🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
 
