@@ -12,6 +12,10 @@
   <h2>
     𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡:
   </h2>
+<table>
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</table>
 
    <table>
     <tr style = background-color: purple;>
