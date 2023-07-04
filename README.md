@@ -13,8 +13,8 @@
     𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡:
   </h2>
 
-  <ul>
-    <li>
+   <table style = "background-color: purple">
+    <tr>
     <image src = "/Icons/c.svg" height = "25"> </image> 
     <image src = "/Icons/cmake.svg" height = "25"> </image> 
     <image src = "/Icons/cplusplus.svg"height = "25"> </image> 
@@ -29,8 +29,8 @@
     <image src = "/Icons/php.svg"height = "25"> </image>
     <image src = "/Icons/python.svg"height = "25"> </image>
     <image src = "/Icons/qt.svg"height = "25"> </image>
-    </li>
-  </ul>
+    </tr>
+  </table>
 </div>
 
 <div>
