@@ -12,6 +12,8 @@
    <img height = "200" width = "525" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
    <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
 <div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
 🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
 
