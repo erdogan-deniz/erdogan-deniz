@@ -8,8 +8,8 @@
 </div>
 
 <div alt = "stats">
-   <img height = "400" src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500">
-   <img height="400" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&hide=contribs,prs">
+   <img height = "200" src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500">
+   <img height="200" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&hide=contribs,prs">
    <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
 <div>
    
