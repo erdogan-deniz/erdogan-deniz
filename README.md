@@ -8,11 +8,14 @@
 </div>
 
 <div align = "center">
-   <img src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500">
    <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
-   <img src = "https://github-readme-stats.vercel.app/api?username=Denzi33&hide=contribs,prs">
 </div>
 
+<div>
+   <img src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500">
+   <img src = "https://github-readme-stats.vercel.app/api?username=Denzi33&hide=contribs,prs">
+<div>
+   
 🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
