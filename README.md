@@ -9,7 +9,7 @@
 
 <div alt = "stats">
    <img height = "200" width = "460" src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=500">
-   <img height = "200" width = "540" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&&show=reviews">
+   <img height = "200" width = "540" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&&show=reviews&show_icons=true&theme=tokyonight">
    <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
 <div>
    
