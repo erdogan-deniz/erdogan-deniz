@@ -16,7 +16,9 @@
 <div>
 
 [![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)](https://github.com/Denzi33/leetcode-stats)
+
 [![Codewars](https://www.codewars.com/users/Denzi33/badges/large)](https://www.codewars.com/users/Denzi33)
+
 ![](https://komarev.com/ghpvc/?username=Denzi33)
 
 🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
