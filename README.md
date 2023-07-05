@@ -15,6 +15,8 @@
    <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
 <div>
 
+[![codewars](https://www.codewars.com/users/Denzi33/badges/large)](https://www.codewars.com/users/Denzi33)
+
 🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
