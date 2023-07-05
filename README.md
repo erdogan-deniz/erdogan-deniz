@@ -15,7 +15,9 @@
    <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
 <div>
 
-[![codewars](https://www.codewars.com/users/Denzi33/badges/large)](https://www.codewars.com/users/Denzi33)
+[![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)](https://github.com/Denzi33/leetcode-stats)
+[![Codewars](https://www.codewars.com/users/Denzi33/badges/large)](https://www.codewars.com/users/Denzi33)
+![](https://komarev.com/ghpvc/?Denzi33=your-github-username)
 
 🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
 
