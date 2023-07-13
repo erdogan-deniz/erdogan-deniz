@@ -35,7 +35,6 @@
       <img src = "Materials/Space.gif" width = "20" height = "20">
       <img src = "Materials/Space.gif" width = "20" height = "20">
       <img src = "Materials/Space.gif" width = "20" height = "20">
-      <img src = "Materials/Space.gif" width = "20" height = "20">
    </div>
    
    <div>   
@@ -188,16 +187,40 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Life+is+what+happens+when+you%E2%80%99re+busy;making+other+plans." alt="Typing SVG" />
 </div>
 
-<div >
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "92" height = "15">
-   <img src = "Materials/code.gif" width = "92" height = "15">
-   <img src = "Materials/code.gif" width = "92" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15"> 
-</div>
+   <div>
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+   </div>
