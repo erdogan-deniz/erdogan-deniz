@@ -5,11 +5,11 @@
       <img src = "Materials/Space.gif" width = "21" height = "21">
       <img src = "Materials/Space.gif" width = "21" height = "21">
       <img src = "Materials/Space.gif" width = "21" height = "21">
-      <img src = "Materials/Space.gif" width = "20" height = "20">
-      <img src = "Materials/Space.gif" width = "20" height = "20">
-      <img src = "Materials/Space.gif" width = "20" height = "20">
-      <img src = "Materials/Space.gif" width = "20" height = "20">
-      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "21" height = "21">
+      <img src = "Materials/Space.gif" width = "21" height = "21">
+      <img src = "Materials/Space.gif" width = "21" height = "21">
+      <img src = "Materials/Space.gif" width = "21" height = "21">
+      <img src = "Materials/Space.gif" width = "21" height = "21">
       <img src = "Materials/Space.gif" width = "20" height = "20">
       <img src = "Materials/Space.gif" width = "20" height = "20">
       <img src = "Materials/Space.gif" width = "20" height = "20">
