@@ -1,9 +1,9 @@
 <div >
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
-   <img src = "Materials/code.gif" width = "85" height = "15">
+   <img src = "Materials/code.gif" width = "87" height = "15">
+   <img src = "Materials/code.gif" width = "87" height = "15">
+   <img src = "Materials/zip.gif" width = "87" height = "15">
+   <img src = "Materials/zip.gif" width = "87" height = "15">
+   <img src = "Materials/code.gif" width = "87" height = "15">
    <img src = "Materials/code.gif" width = "85" height = "15">
    <img src = "Materials/code.gif" width = "92" height = "15">
    <img src = "Materials/code.gif" width = "92" height = "15">
