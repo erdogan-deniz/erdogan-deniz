@@ -1,7 +1,7 @@
 <div >
    <image>
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20" vertical-align: bottom;>
+   <img src = "Materials/Space.gif" width = "20" height = "20" vertical-align: bottom;>
    <img src = "Materials/Space.gif" width = "20" height = "20">
    <img src = "Materials/Space.gif" width = "20" height = "20">
    <img src = "Materials/Space.gif" width = "20" height = "20">
