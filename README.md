@@ -1,19 +1,32 @@
-<div   vertical-align: bottom;>
-   <image>
-   <img src = "Materials/Space.gif" width = "20" height = "20" vertical-align: bottom;>
-   <img src = "Materials/Space.gif" width = "20" height = "20" vertical-align: bottom;>
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   <img src = "Materials/Space.gif" width = "20" height = "20">
-   </image>
-   <image src = "/Materials/title.png"> </image> 
+<div>
+   <div>
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+      <img src = "Materials/Space.gif" width = "20" height = "20">
+   </div>
+   
+   <div>   
+      <image src = "/Materials/title.png"> </image> 
+   </div>
 </div>
 
 <div align = "center">
