@@ -9,7 +9,7 @@
    <img src = "Materials/code.gif" width = "90" height = "15">
    <img src = "Materials/code.gif" width = "90" height = "15">
    <img src = "Materials/code.gif" width = "90" height = "15">
-   <img src = "Materials/code.gif" width = "90" height = "15">
+   <img src = "Materials/code.gif" width = "85" height = "15">
    <image src = "/Materials/title.png"> </image> 
 </div>
 
