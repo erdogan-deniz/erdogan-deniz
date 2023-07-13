@@ -7,7 +7,7 @@
    <img src = "Materials/code.gif" width = "85" height = "15">
    <img src = "Materials/code.gif" width = "92" height = "15">
    <img src = "Materials/code.gif" width = "92" height = "15">
-   <img src = "Materials/code.gif" width = "91" height = "15">
+   <img src = "Materials/code.gif" width = "92" height = "15">
    <img src = "Materials/code.gif" width = "85" height = "15">
    <img src = "Materials/code.gif" width = "85" height = "15">
    <image src = "/Materials/title.png"> </image> 
