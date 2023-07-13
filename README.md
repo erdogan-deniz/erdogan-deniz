@@ -1,19 +1,16 @@
 <div >
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
-   <img src = "Materials/Space.gif" width = "15" height = "15">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
+   <img src = "Materials/Space.gif" width = "20" height = "20">
    <image src = "/Materials/title.png"> </image> 
 </div>
 
