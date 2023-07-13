@@ -1,4 +1,5 @@
 <div >
+   <image>
    <img src = "Materials/Space.gif" width = "20" height = "20">
    <img src = "Materials/Space.gif" width = "20" height = "20">
    <img src = "Materials/Space.gif" width = "20" height = "20">
@@ -11,6 +12,7 @@
    <img src = "Materials/Space.gif" width = "20" height = "20">
    <img src = "Materials/Space.gif" width = "20" height = "20">
    <img src = "Materials/Space.gif" width = "20" height = "20">
+   </image>
    <image src = "/Materials/title.png"> </image> 
 </div>
 
