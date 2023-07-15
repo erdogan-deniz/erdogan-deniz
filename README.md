@@ -57,7 +57,8 @@
 </table>
 
 <!-- All stats table-->
-<table align = "center" overflow = "hidden">
+<table align = "center" overflow: hidden>
+   
    <!-- Streak and main launguge -->
    <tr>
       <td>
@@ -71,6 +72,7 @@
          </div>
       </td>
    </tr>
+   
    <!-- Launguages, school 21 -->
    <tr>
       <td>
@@ -93,6 +95,7 @@
    </tr>
 </table>
 
+<!-- Trophies -->
 ![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)
 
 ![Codewars](https://www.codewars.com/users/Denzi33/badges/large)
