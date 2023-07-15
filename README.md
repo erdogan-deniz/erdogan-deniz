@@ -109,6 +109,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Denzi33)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <table>
    <tr>
       🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
