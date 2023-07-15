@@ -108,9 +108,7 @@
 
    <!-- Activity graph -->
    <tr>
-      <div align = "center">
          <img src = "https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark">
-      </div>
    </tr>
 </table>
 
