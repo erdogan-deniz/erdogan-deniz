@@ -82,12 +82,12 @@
    <tr>
       <td>
          <div align = "right">
-            <img width = "100%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
+            <img width = "95%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
          </div>
       </td>
       <td>
          <div align = "left">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+            <img width = "95%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
          </div>
       </td>
    </tr>
