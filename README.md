@@ -68,12 +68,12 @@
    <tr>
       <td>
          <div align = "right">
-            <img src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+            <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
          </div>
       </td>
       <td>
          <div align = "left">
-            <img src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
          </div>
       </td>
    </tr>
@@ -82,12 +82,12 @@
    <tr>
       <td>
          <div align = "right">
-            <img width = "100%" height = "95%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
          </div>
       </td>
       <td>
          <div align = "left">
-            <img width = "100%" height = "95%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
          </div>
       </td>
    </tr>
