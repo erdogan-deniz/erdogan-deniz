@@ -111,11 +111,8 @@
    </tr>
 </table>
 
-![Codewars](https://www.codewars.com/users/Denzi33/badges/micro)
-
-![Views](https://komarev.com/ghpvc/?username=Denzi33)
-
 🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
+
    <img src = "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" >
    <img src = "https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" >
    <img src = "https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" >
@@ -230,7 +227,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<table border="0" align = "center">
+<table align = "center">
    <tr>
       <td width = "30%">
          <img src = "/Materials/face.gif" height = "140"/>
@@ -239,6 +236,9 @@
          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Life+is+what+happens+when+you%E2%80%99re+busy;making+other+plans." alt="Typing SVG" />
       </td>
    </tr>
+   
+   ![Codewars](https://www.codewars.com/users/Denzi33/badges/micro)
+   ![Views](https://komarev.com/ghpvc/?username=Denzi33)
 </table>
 
 <table align = "center">
