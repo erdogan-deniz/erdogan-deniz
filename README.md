@@ -97,6 +97,8 @@
    </tr>
 </table>
 
+[![Deniz Erdogan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18237503theme=dark)](https://stackoverflow.com/users/18237503/deniz)
+
 <!-- Activity graph -->
 [![Denzi33's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
