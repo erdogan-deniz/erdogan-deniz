@@ -91,16 +91,20 @@
    
    <!-- Trophies -->
    <tr>
-         <div align = "center">
-            <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
-         </div>
+      <div align = "center">
+         <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+      </div>
+   </tr>
+   
+   <!-- Activity graph -->
+   <tr>
+      <div align = "center">
+         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night">
+      </div>
    </tr>
 </table>
 
 [![Deniz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18237503&theme=dark)](https://stackoverflow.com/users/18237503/deniz)
-
-<!-- Activity graph -->
-[![Denzi33's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Trophies -->
 ![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)
