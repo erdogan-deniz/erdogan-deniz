@@ -58,8 +58,6 @@
    </tr>
 </table>
 
-[![Denzi33's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- All stats table-->
 <table class="main_table" align = "center">
    
@@ -98,6 +96,9 @@
          </div>
    </tr>
 </table>
+
+<!-- Activity graph -->
+[![Denzi33's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Trophies -->
 ![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)
