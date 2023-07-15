@@ -81,19 +81,19 @@
          </div>
       </td>
       <td>
-         <tr>
             <div align = "left">
                <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
             </div>
-         </tr>
       </td>
    </tr>
    
    <!-- Trophies -->
    <tr>
-      <div align = "center">
-         <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
-      </div>
+      <td>
+         <div align = "center">
+            <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+         </div>
+      </td>
    </tr>
 </table>
 
