@@ -1,7 +1,7 @@
 <!-- The head table: gifs + banner -->
 <table>
    <tr>
-      <div>
+      <div align = "center">
          <img src = "Materials/Space.gif" width = "21" height = "21">
          <img src = "Materials/Space.gif" width = "21" height = "21">
          <img src = "Materials/Space.gif" width = "21" height = "21">
