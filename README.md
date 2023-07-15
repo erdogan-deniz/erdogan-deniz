@@ -122,15 +122,7 @@
    <tr>
       <td>
          <img src = "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" >
-      </td>
-            <td>
          <img src = "https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" >
-      </td>
-            <td>
-         <img src = "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" >
-      </td>
-            <td>
-         <img src = "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" >
       </td>
    </tr>
 </table>
