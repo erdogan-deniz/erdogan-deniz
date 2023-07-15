@@ -84,12 +84,14 @@
          </div> 
       </td>
    </tr>
+   
+   <!-- Trophies -->
+   <tr>
+      <div align = "center">
+         <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+      </div>
+   </tr>
 </table>
-
-<!-- Trophies -->
-<div align = "center">
-   <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
-<div>
 
 ![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)
 
