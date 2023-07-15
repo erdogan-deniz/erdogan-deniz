@@ -54,9 +54,14 @@
    <img height = "200" width = "420" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
 <div>
 
+<!-- Launguages, school 21 -->
 <div>
    <img height = "180" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
    <img height = "180" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+</div>
+
+<!-- Trophies -->
+<div align = "center">
    <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
 <div>
 
