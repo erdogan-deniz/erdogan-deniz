@@ -57,7 +57,7 @@
 </table>
 
 <!-- All stats table-->
-<table align = "center">
+<table align = "center" overflow = "hidden">
    <!-- Streak and main launguge -->
    <tr>
       <td>
