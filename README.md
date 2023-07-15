@@ -67,12 +67,12 @@
    <tr>
       <td>
          <div align = "center">
-            <img align = "left" height = "140" width = "450" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
+            <img height = 100% width = 100% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
          </div>
       </td>
       <td>
          <div align = "center">
-            <img align = "right" height = "145" width = "350" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+            <img height = 100% width = 100% src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
          </div> 
       </td>
    </tr>
