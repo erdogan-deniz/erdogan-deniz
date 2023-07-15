@@ -57,7 +57,7 @@
 <!-- Launguages, school 21 -->
 <div>
    <img align = "left" height = "130" width = "450" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
-   <img align = "right" height = "145" width = "370" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+   <img align = "right" height = "145" width = "350" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
 </div>
 
 <!-- Trophies -->
