@@ -55,7 +55,7 @@
 <div>
 
 <!-- Launguages, school 21 -->
-<div>
+<div align = "center">
    <img height = "130" width = "450" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
    <img height = "145" width = "370" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
 </div>
