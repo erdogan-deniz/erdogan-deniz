@@ -109,7 +109,9 @@
       🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
    </tr>
    <tr>
-      <img src = "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" >
+      <td style = ”margin-top: 10 px;”>
+         <img src = "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" >
+      </td>
    </tr>
 </table>
 
