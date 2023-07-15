@@ -251,9 +251,9 @@
    </tr>
 </table>
 
-<!-- MAIN:START -->
+<!-- Full-year calendar:START -->
 
-<!-- MAIN:END -->
+<!-- Full-year calendar:END -->
 
 
 <table align = "center">
