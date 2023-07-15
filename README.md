@@ -229,9 +229,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<table>
+<table align = "center">
    <tr>
-      <td width = "20%">
+      <td width = "30 %">
          <img src = "/Materials/face.gif" height = "140"/>
       </td>
       <td>
