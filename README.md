@@ -49,7 +49,7 @@
 </div>
 
 <!-- All stats -->
-<table border = "0">
+<table border = "0" bgcolor="black">
    <!-- Streak and main launguge -->
    <tr>
       <td>
