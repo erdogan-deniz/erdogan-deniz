@@ -1,6 +1,7 @@
 <!-- The head table: gifs + banner -->
 <table>
    <tr>
+      <!-- Spaces gifs-->
       <div align = "center">
          <img src = "Materials/Space.gif" width = "21" height = "20">
          <img src = "Materials/Space.gif" width = "21" height = "20">
@@ -42,7 +43,7 @@
 
    <!-- Banner: Denzi33 -->
    <tr>
-      <div>   
+      <div align = "center">   
          <image src = "/Materials/title.png"> </image> 
       </div>
    </tr>
