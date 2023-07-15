@@ -1,5 +1,5 @@
 <!-- The head table: gifs + banner -->
-<table>
+<table align = "center">
    <tr>
       <!-- Spaces gifs-->
       <div align = "center">
@@ -57,7 +57,7 @@
 </table>
 
 <!-- All stats table-->
-<table>
+<table align = "center">
    <!-- Streak and main launguge -->
    <tr>
       <td>
