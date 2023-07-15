@@ -46,16 +46,12 @@
 <!-- Text: default user from Russia -->
 <div align = "center" >
   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8111F7&width=435&lines=%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%B5%F0%9F%85%B0%F0%9F%86%84%F0%9F%85%BB%F0%9F%86%83+%F0%9F%86%84%F0%9F%86%82%F0%9F%85%B4%F0%9F%86%81+%F0%9F%85%B5%F0%9F%86%81%F0%9F%85%BE%F0%9F%85%BC+%F0%9F%86%81%F0%9F%86%84%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B8%F0%9F%85%B0" />
-</div>
 
 <!-- Streak and main launguge -->
-<div alt = "stats" align = "center">
    <img height = "150" width = "420" src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
    <img height = "150" width = "420" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
-<div>
 
 <!-- Launguages, school 21 -->
-<div>
    <img align = "left" height = "140" width = "450" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
    <img align = "right" height = "145" width = "350" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
 </div>
