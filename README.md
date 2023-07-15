@@ -5,6 +5,7 @@
    <tr>
       <!-- Spaces gifs-->
       <div align = "center">
+         <a href = "https://github.com/Denzi33/Denzi33/blob/main/Materials/Space.gif">
          <img src = "Materials/Space.gif" width = "21" height = "20">
          <img src = "Materials/Space.gif" width = "21" height = "20">
          <img src = "Materials/Space.gif" width = "21" height = "20">
@@ -40,7 +41,8 @@
          <img src = "Materials/Space.gif" width = "20" height = "20">
          <img src = "Materials/Space.gif" width = "20" height = "20">
          <img src = "Materials/Space.gif" width = "20" height = "20">
-      </div>
+      </a>
+         </div>
    </tr>
 
    <!-- Banner: Denzi33 -->
