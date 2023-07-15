@@ -59,7 +59,7 @@
 </table>
 
 <!-- All stats table-->
-<table class="main_table" align = "center">
+<table class="main_table"  width = "950px" align = "center">
    
    <!-- Streak and main launguge -->
    <tr>
@@ -83,9 +83,9 @@
          </div>
       </td>
       <td>
-            <div align = "left">
-               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
-            </div>
+         <div align = "left">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+         </div>
       </td>
    </tr>
    
@@ -102,6 +102,8 @@
          <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night">
       </div>
    </tr>
+
+   
 </table>
 
 [![Deniz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18237503&theme=dark)](https://stackoverflow.com/users/18237503/deniz)
