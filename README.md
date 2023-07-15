@@ -109,9 +109,6 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Denzi33)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <table>
    <tr>
       🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
@@ -122,9 +119,6 @@
       </td>
    </tr>
 </table>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
@@ -250,11 +244,6 @@
       </td>
    </tr>
 </table>
-
-<!-- Full-year calendar:START -->
-
-<!-- Full-year calendar:END -->
-
 
 <table align = "center">
    <tr>
