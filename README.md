@@ -51,7 +51,7 @@
 <!-- Streak and main launguge -->
 <div alt = "stats" align = "center">
    <img height = "150" width = "420" src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
-   <img height = "200" width = "420" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
+   <img height = "150" width = "420" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
 <div>
 
 <!-- Launguages, school 21 -->
