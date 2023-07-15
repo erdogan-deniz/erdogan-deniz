@@ -53,7 +53,7 @@
    <tr>
       <td>
          <div alt = "stats" align = "center">
-            <img height = 95% width = 100% src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+            <img height = 80% width = 100% src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
          </div>
       </td>
       <td>
