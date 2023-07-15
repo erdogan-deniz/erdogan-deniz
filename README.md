@@ -1,3 +1,5 @@
+<link rel = "stylesheet" href = "CSS/readme.css">
+
 <!-- The head table: gifs + banner -->
 <table align = "center">
    <tr>
