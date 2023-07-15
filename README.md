@@ -57,7 +57,7 @@
 </table>
 
 <!-- All stats table-->
-<table align = "center" overflow = "visible">
+<table align = "center">
    
    <!-- Streak and main launguge -->
    <tr>
@@ -81,9 +81,11 @@
          </div>
       </td>
       <td>
-         <div align = "left">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
-         </div> 
+         <tr>
+            <div align = "left">
+               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+            </div>
+         </tr>
       </td>
    </tr>
    
