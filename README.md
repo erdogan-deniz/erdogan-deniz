@@ -62,7 +62,7 @@
 </table>
 
 <!-- All stats table-->
-<table height = "1500px" align = "center">
+<table height = "1000px" align = "center">
    
    <!-- Streak and main launguge -->
    <tr>
