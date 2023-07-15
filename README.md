@@ -58,6 +58,8 @@
    </tr>
 </table>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Denzi33)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- All stats table-->
 <table class="main_table" align = "center">
    
@@ -100,7 +102,7 @@
 <!-- Trophies -->
 ![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)
 
-![Codewars](https://www.codewars.com/users/Denzi33/badges/large)
+![Codewars](https://www.codewars.com/users/Denzi33/badges/micro)
 
 ![Views](https://komarev.com/ghpvc/?username=Denzi33)
 
