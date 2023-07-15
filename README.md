@@ -103,13 +103,13 @@
       </div>
    </tr>
 
-   
+   <!-- Activity graph -->
+   <tr>
+      <div align = "center">
+         <img src = "https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark">
+      </div>
+   </tr>
 </table>
-
-[![Deniz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18237503&theme=dark)](https://stackoverflow.com/users/18237503/deniz)
-
-<!-- Trophies -->
-![Denzi33 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark)
 
 ![Codewars](https://www.codewars.com/users/Denzi33/badges/micro)
 
