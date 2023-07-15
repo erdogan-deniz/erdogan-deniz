@@ -231,7 +231,7 @@
 
 <table align = "center">
    <tr>
-      <td width = "30 %">
+      <td width = "30%">
          <img src = "/Materials/face.gif" height = "140"/>
       </td>
       <td>
