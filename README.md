@@ -58,7 +58,7 @@
       </td>
       <td>
          <div alt = "stats" align = "center">
-            <img height = "150" width = "420" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
+            <img height = 100 % width = 100 % src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
          </div>
       </td>
    </tr>
