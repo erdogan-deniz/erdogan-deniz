@@ -56,8 +56,8 @@
 
 <!-- Launguages, school 21 -->
 <div>
-   <img height = "155" width = "420"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
-   <img height = "195" width = "415" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+   <img height = "145" width = "420"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
+   <img height = "155" width = "415" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
 </div>
 
 <!-- Trophies -->
