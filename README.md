@@ -49,7 +49,7 @@
 </div>
 
 <!-- All stats -->
-<table>
+<table border = "0">
    <!-- Streak and main launguge -->
    <tr>
       <td>
@@ -70,7 +70,7 @@
             <img height = 100% width = 100% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
          </div>
       </td>
-      <td style = color: "white" >
+      <td style = color: white>
          <div align = "center">
             <img height = 100% width = 100% src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
          </div> 
