@@ -102,9 +102,16 @@
 
 ![Codewars](https://www.codewars.com/users/Denzi33/badges/large)
 
-![](https://komarev.com/ghpvc/?username=Denzi33)
+![Views](https://komarev.com/ghpvc/?username=Denzi33)
 
-🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
+<table>
+   <tr>
+      🍇 𝔾𝕒𝕞𝕖 𝕒𝕔𝕔𝕠𝕦𝕟𝕥𝕤:
+   </tr>
+   <tr>
+      <img src = "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" >
+   </tr>
+</table>
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
