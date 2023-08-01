@@ -131,6 +131,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
+* 21 years old;
+* From Russia;
+* Data Scientist;
+* Student of University;
+* Student of School 21.
+
 <table align = "center">
    <tr>
       <td width = "30%">
