@@ -5,7 +5,7 @@
    <tr>
       <!-- Spaces gifs-->
       <div align = "center">
-         <a href = "https://github.com/Denzi33/Denzi33/blob/main/Materials/Space.gif">
+         <a href = "https://github.com/erdogan-deniz/erdogan-deniz/blob/main/Materials/Space.gif">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
@@ -45,7 +45,7 @@
       </div>
    </tr>
 
-   <!-- Banner: Denzi33 -->
+   <!-- Banner: erdogan-deniz -->
    <tr>
       <div align = "center">   
          <image src = "/Materials/title.png"> </image> 
@@ -54,15 +54,15 @@
    
    <!-- Text: default user from Russia -->
    <tr>
-      <a href = "https://www.codewars.com/users/Denzi33">
-         <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
+      <a href = "https://www.codewars.com/users/erdogan-deniz">
+         <img src = "https://www.codewars.com/users/erdogan-deniz/badges/micro" />
       </a>
       <div align = "center" >
          <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8111F7&width=435&lines=%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%B5%F0%9F%85%B0%F0%9F%86%84%F0%9F%85%BB%F0%9F%86%83+%F0%9F%86%84%F0%9F%86%82%F0%9F%85%B4%F0%9F%86%81+%F0%9F%85%B5%F0%9F%86%81%F0%9F%85%BE%F0%9F%85%BC+%F0%9F%86%81%F0%9F%86%84%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B8%F0%9F%85%B0" />
       </div>
    </tr>
    
-   <img src = "https://komarev.com/ghpvc/?username=Denzi33" />
+   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz" />
 </table>
 
 <!-- All stats table-->
@@ -72,12 +72,12 @@
    <tr>
       <td>
          <div align = "right">
-            <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=Denzi33&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+            <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=ru&date_format=n%2Fj%5B%2FY%5D&card_width=420">
          </div>
       </td>
       <td>
          <div align = "left">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=Denzi33&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=erdogan-deniz&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=ru&hide_title=true&langs_count=5">
          </div>
       </td>
    </tr>
@@ -86,13 +86,13 @@
    <tr>
       <td>
          <div align = "right">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denzi33&layout=compact&hide_border=true&locale=ru&hide_title=true">
+            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=ru&hide_title=true">
          </div>
       </td>
       <td>
          <div align = "left">
-            <a href = "https://github.com/Denzi33/School21">
-               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=Denzi33&repo=School21">
+            <a href = "https://github.com/erdogan-deniz/School21">
+               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=erdogan-deniz&repo=School21">
             </a>
          </div>
       </td>
@@ -101,21 +101,21 @@
    <!-- Trophies -->
    <tr>
       <div align = "center">
-         <img src = "https://github-profile-trophy.vercel.app/?username=Denzi33&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+         <img src = "https://github-profile-trophy.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
       </div>
    </tr>
    
    <!-- Activity graph -->
    <tr>
       <div align = "center">
-         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night">
+         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
       </div>
    </tr>
 
    <!-- Activity graph -->
    <tr>
       <div align = "center">
-         <img src = "https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark">
+         <img src = "https://leetcode-stats-six.vercel.app/api?username=erdogan-deniz&theme=dark">
       </div>
    </tr>
 </table>
@@ -155,7 +155,7 @@
    <tr>
       <!-- Spaces gifs-->
  <div align = "center">
-         <a href = "https://github.com/Denzi33/Denzi33/blob/main/Materials/Space.gif">
+         <a href = "https://github.com/erdogan-deniz/erdogan-deniz/blob/main/Materials/Space.gif">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
             <img src = "Materials/Space.gif" width = "21" height = "20">
