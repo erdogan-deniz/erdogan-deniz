@@ -108,7 +108,7 @@
    <!-- Activity graph -->
    <tr>
       <div align = "center">
-         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
+         <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Denzi33&theme=tokyo-night">
       </div>
    </tr>
 
