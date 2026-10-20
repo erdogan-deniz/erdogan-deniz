@@ -18,7 +18,7 @@
    </tr>
 </table>
 
-🧑‍💻 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
+🧑‍💻 𝔸𝕓𝕠𝕦𝕥:
 * Senior ML Engineer, based in Istanbul;
 * 5+ years in commercial ML: LLM systems, AI agents, classic ML and the backend around them;
 * BSc in Software Engineering;
