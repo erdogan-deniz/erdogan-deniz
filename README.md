@@ -227,13 +227,6 @@
    <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
 </div>
 
-<!-- Codewars rank -->
-<p align = "center">
-   <a href = "https://www.codewars.com/users/Denzi33">
-      <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
-   </a>
-</p>
-
 <table align = "center">
    <tr>
       <td width = "30%">
@@ -255,8 +248,3 @@
       </div>
    </tr>
 </table>
-
-<!-- Profile views -->
-<p align = "center">
-   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
-</p>
