@@ -190,9 +190,9 @@
    </tr>
 </table>
 
-<!-- Coding activity heading: typing line -->
+<!-- GitHub activity heading: typing line -->
 <div align = "center">
-   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%B3%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B8%F0%9F%86%83%F0%9F%86%88" />
+   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%B6%F0%9F%85%B8%F0%9F%86%83%F0%9F%85%B7%F0%9F%86%84%F0%9F%85%B1+%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B8%F0%9F%86%83%F0%9F%86%88" />
 </div>
 
 <!-- GitHub stats and languages -->
@@ -222,10 +222,22 @@
    <img src = "https://github-profile-trophy.screw-hand.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
 </div>
 
+<!-- Problem solving heading: typing line -->
+<div align = "center">
+   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%BF%F0%9F%86%81%F0%9F%85%BE%F0%9F%85%B1%F0%9F%85%BB%F0%9F%85%B4%F0%9F%85%BC+%F0%9F%86%82%F0%9F%85%BE%F0%9F%85%BB%F0%9F%86%85%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6" />
+</div>
+
 <!-- LeetCode stats -->
 <div align = "center">
    <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
 </div>
+
+<!-- Codewars rank -->
+<p align = "center">
+   <a href = "https://www.codewars.com/users/Denzi33">
+      <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
+   </a>
+</p>
 
 <table align = "center">
    <tr>
@@ -249,10 +261,7 @@
    </tr>
 </table>
 
-<!-- Codewars rank and profile views -->
+<!-- Profile views -->
 <p align = "center">
-   <a href = "https://www.codewars.com/users/Denzi33">
-      <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
-   </a>
    <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
 </p>
