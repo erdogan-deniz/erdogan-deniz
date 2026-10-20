@@ -17,17 +17,12 @@
       </div>
    </tr>
    
-   <!-- Text: Senior ML Engineer -->
+   <!-- Text: open to remote contracts -->
    <tr>
-      <a href = "https://www.codewars.com/users/Denzi33">
-         <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
-      </a>
       <div align = "center" >
-         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5517&pause=483&color=8111F7&width=640&lines=%F0%9F%86%82%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B8%F0%9F%85%BE%F0%9F%86%81+%F0%9F%85%BC%F0%9F%85%B0%F0%9F%85%B2%F0%9F%85%B7%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4+%F0%9F%85%BB%F0%9F%85%B4%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%BD%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B6%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%81" />
+         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3621&pause=2379&color=8111F7&width=420&lines=%F0%9F%85%BE%F0%9F%85%BF%F0%9F%85%B4%F0%9F%85%BD+%F0%9F%86%83%F0%9F%85%BE+%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%BC%F0%9F%85%BE%F0%9F%86%83%F0%9F%85%B4+%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%BD%F0%9F%86%83%F0%9F%86%81%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%86%82" />
       </div>
    </tr>
-   
-   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
 </table>
 
 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
@@ -57,6 +52,14 @@ LLM agents, RAG, LLM evaluation (LLM-as-a-judge, golden sets, regression tests i
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-erdogan-ml/)
 [![Gmail](https://img.shields.io/badge/deniz.erdogan.ml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deniz.erdogan.ml@gmail.com)
+
+<!-- Codewars rank and profile views -->
+<p align = "center">
+   <a href = "https://www.codewars.com/users/Denzi33">
+      <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
+   </a>
+   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
+</p>
 
 <!-- All stats table-->
 <table height = "450px" align = "center">
