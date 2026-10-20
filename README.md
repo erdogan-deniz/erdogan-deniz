@@ -37,12 +37,12 @@
    * <a href = "https://www.kaggle.com/erdogandeniz"><img src = "https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02IDJoMy42djExLjJMMTYuNCA2SDIxbC03LjIgNy40TDIxLjUgMjJoLTQuNmwtNS42LTYuNi0xLjcgMS43VjIySDZ6Ii8%2BPC9zdmc%2B" alt = "Kaggle" align = "absmiddle" /></a>
    * <a href = "https://huggingface.co/deniz-erdogan"><img src = "https://img.shields.io/badge/hugging%20face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt = "Hugging Face" align = "absmiddle" /></a>
 
-🧰 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
+🧰 𝕊𝕥𝕒𝕔𝕜:
 
 <!-- Stack table: one row per group -->
 <table>
    <tr>
-      <td><b>LLM&nbsp;systems</b></td>
+      <td><b>LLM&nbsp;Systems</b></td>
       <td>
          <img src = "https://img.shields.io/badge/AWQ%20quantization-8111F7?style=for-the-badge" />
          <img src = "https://img.shields.io/badge/Hugging%20Face-8111F7?style=for-the-badge&logo=huggingface&logoColor=white" />
@@ -99,7 +99,7 @@
       </td>
    </tr>
    <tr>
-      <td><b>Deep&nbsp;learning</b></td>
+      <td><b>Deep&nbsp;Learning</b></td>
       <td>
          <img src = "https://img.shields.io/badge/DeepSpeed-1a1b27?style=for-the-badge" />
          <img src = "https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
@@ -107,7 +107,7 @@
       </td>
    </tr>
    <tr>
-      <td><b>Graphics&nbsp;&amp;&nbsp;desktop</b></td>
+      <td><b>Graphics&nbsp;&amp;&nbsp;Desktop</b></td>
       <td>
          <img src = "https://img.shields.io/badge/CMake-1a1b27?style=for-the-badge&logo=cmake&logoColor=6CA0DC" />
          <img src = "https://img.shields.io/badge/GLSL-1a1b27?style=for-the-badge" />
@@ -132,7 +132,7 @@
       </td>
    </tr>
    <tr>
-      <td><b>ML&nbsp;&amp;&nbsp;data</b></td>
+      <td><b>ML&nbsp;&amp;&nbsp;Data</b></td>
       <td>
          <img src = "https://img.shields.io/badge/CatBoost-1a1b27?style=for-the-badge" />
          <img src = "https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=F37626" />
@@ -165,7 +165,7 @@
       </td>
    </tr>
    <tr>
-      <td><b>Testing&nbsp;&amp;&nbsp;quality</b></td>
+      <td><b>Testing&nbsp;&amp;&nbsp;Quality</b></td>
       <td>
          <img src = "https://img.shields.io/badge/GoogleTest-1a1b27?style=for-the-badge" />
          <img src = "https://img.shields.io/badge/Hypothesis-1a1b27?style=for-the-badge" />
