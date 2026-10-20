@@ -110,13 +110,12 @@
       </div>
    </tr>
 
-   <!-- LeetCode stats: off until the LeetCode username is confirmed (Denzi33 no longer exists)
+   <!-- LeetCode stats -->
    <tr>
       <div align = "center">
-         <img src = "https://leetcode-stats-six.vercel.app/api?username=Denzi33&theme=dark">
+         <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
       </div>
    </tr>
-   -->
 </table>
 
 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
