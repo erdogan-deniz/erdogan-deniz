@@ -207,14 +207,14 @@
    </tr>
 </table>
 
-<!-- Activity graph -->
-<div align = "center">
-   <img src = "https://activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
-</div>
-
 <!-- Trophies -->
 <div align = "center">
    <img src = "https://github-profile-trophy.screw-hand.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+</div>
+
+<!-- Activity graph -->
+<div align = "center">
+   <img src = "https://activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
 </div>
 
 <!-- Problem solving heading: typing line -->
