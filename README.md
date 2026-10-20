@@ -7,10 +7,13 @@
       </div>
    </tr>
 
-   <!-- Banner: erdogan-deniz -->
+   <!-- Banner: name card, dark and light variants -->
    <tr>
-      <div align = "center">   
-         <image src = "/Materials/title.png"> </image> 
+      <div align = "center">
+         <picture>
+            <source media = "(prefers-color-scheme: dark)" srcset = "Materials/banner-dark.svg">
+            <img src = "Materials/banner-light.svg" width = "100%" alt = "Deniz Erdogan: LLM systems, multi-agent, RAG, evaluation">
+         </picture>
       </div>
    </tr>
    
