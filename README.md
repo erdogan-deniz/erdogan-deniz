@@ -19,11 +19,15 @@
 </table>
 
 🧑‍💻 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
-* Senior ML Engineer, 6+ years in ML, 5+ of them commercial;
-* I build production LLM systems that keep working after the demo: multi-agent architectures, RAG, fine-tuning, and the evaluation and monitoring around them;
-* Multi-agent incident investigation: 20x faster (30 min → 1.5 min), ~$240K/month saved;
-* Domain LLM inference at 230 ms per response (AWQ INT4 + vLLM);
-* Based in Istanbul.
+* Senior ML Engineer, based in Istanbul;
+* 5+ years in commercial ML: LLM systems, AI agents, classic ML and the backend around them;
+* I care about doing the work properly: tests, evaluation and monitoring come with the model, not after it;
+* Started out in open source, and GitHub is still where my own projects live;
+* BSc in Software Engineering;
+* Now doing an MSc in AI & Big Data;
+* Studied at School 21 (42 network);
+* Outside work I solve problems on Codewars and LeetCode;
+* My name means "sea" in Turkish. Deep learning came naturally.
 
 🧰 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
 
