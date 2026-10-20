@@ -226,7 +226,7 @@
 <table align = "center">
    <tr>
       <td width = "100%" align = "center">
-         <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
+         <img width = "1200" src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
       </td>
    </tr>
 </table>
