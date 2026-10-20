@@ -233,19 +233,6 @@
 
 <table align = "center">
    <tr>
-      <td width = "30%">
-         <img src = "/Materials/face.gif" height = "140"/>
-      </td>
-      <td>
-         <a href = "https://www.youtube.com/watch?v=Lt3IOdDE5iA">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Life+is+what+happens+when+you%E2%80%99re+busy;making+other+plans." alt="Typing SVG" />
-         </a>
-      </td>
-   </tr>
-</table>
-
-<table align = "center">
-   <tr>
       <!-- Forward pass strip -->
  <div align = "center">
          <img src = "Materials/neural-strip.svg" width = "100%">
