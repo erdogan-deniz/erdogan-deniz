@@ -190,9 +190,9 @@
    </tr>
 </table>
 
-<!-- Stats heading: typing line -->
+<!-- Coding activity heading: typing line -->
 <div align = "center">
-   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1552&pause=4448&color=8111F7&width=180&lines=%F0%9F%86%82%F0%9F%86%83%F0%9F%85%B0%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%82%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%B2%F0%9F%86%82" />
+   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%B3%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B8%F0%9F%86%83%F0%9F%86%88" />
 </div>
 
 <!-- Codewars rank and profile views -->
