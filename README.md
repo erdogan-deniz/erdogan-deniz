@@ -195,14 +195,14 @@
    <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%B6%F0%9F%85%B8%F0%9F%86%83%F0%9F%85%B7%F0%9F%86%84%F0%9F%85%B1+%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B8%F0%9F%86%83%F0%9F%86%88" />
 </div>
 
-<!-- GitHub stats and languages -->
+<!-- GitHub stats and streak -->
 <table align = "center">
    <tr>
       <td width = "50%">
          <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=erdogan-deniz&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=en&hide_title=true&langs_count=5">
       </td>
       <td width = "50%">
-         <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=en&hide_title=true&theme=tokyonight">
+         <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
       </td>
    </tr>
 </table>
@@ -212,11 +212,11 @@
    <img src = "https://activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
 </div>
 
-<!-- Streak: framed like the stats table -->
+<!-- Languages: framed like the stats table -->
 <table align = "center">
    <tr>
       <td width = "100%" align = "center">
-         <img src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=en&hide_title=true&theme=tokyonight">
       </td>
    </tr>
 </table>
