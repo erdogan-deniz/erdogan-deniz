@@ -16,13 +16,6 @@
          </picture>
       </div>
    </tr>
-   
-   <!-- Text: building in the open -->
-   <tr>
-      <div align = "center" >
-         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3103&pause=2897&color=8111F7&width=360&lines=%F0%9F%85%B1%F0%9F%86%84%F0%9F%85%B8%F0%9F%85%BB%F0%9F%85%B3%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B8%F0%9F%85%BD+%F0%9F%86%83%F0%9F%85%B7%F0%9F%85%B4+%F0%9F%85%BE%F0%9F%85%BF%F0%9F%85%B4%F0%9F%85%BD" />
-      </div>
-   </tr>
 </table>
 
 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
@@ -196,6 +189,11 @@
 [![Gmail](https://img.shields.io/badge/deniz.erdogan.ml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deniz.erdogan.ml@gmail.com)
 
 📊 𝕊𝕥𝕒𝕥𝕤:
+
+<!-- Text: building in the open -->
+<div align = "center">
+   <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3103&pause=2897&color=8111F7&width=360&lines=%F0%9F%85%B1%F0%9F%86%84%F0%9F%85%B8%F0%9F%85%BB%F0%9F%85%B3%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B8%F0%9F%85%BD+%F0%9F%86%83%F0%9F%85%B7%F0%9F%85%B4+%F0%9F%85%BE%F0%9F%85%BF%F0%9F%85%B4%F0%9F%85%BD" />
+</div>
 
 <!-- Codewars rank and profile views -->
 <p align = "center">
