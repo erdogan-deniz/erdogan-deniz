@@ -25,7 +25,7 @@
 * Studied at School 21 (42 Network);
 * Now doing an MSc in AI & Big Data;
 * Started out in open source, and GitHub is still where my own projects live;
-* Outside work I solve problems on Codewars and LeetCode;
+* Outside work I solve problems on LeetCode;
 * My name means "sea" in Turkish. Deep learning came naturally.
 
 📬 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕤:
