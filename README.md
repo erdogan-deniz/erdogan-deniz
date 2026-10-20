@@ -1,9 +1,9 @@
-<!-- The head table: gifs + banner -->
+<!-- The head table: strip + banner -->
 <table align = "center">
    <tr>
-      <!-- Spaces gifs-->
+      <!-- Forward pass strip -->
       <div align = "center">
-         <img src = "Materials/space-strip.gif" width = "100%">
+         <img src = "Materials/neural-strip.svg" width = "100%">
       </div>
    </tr>
 
@@ -125,9 +125,9 @@ LLM agents, RAG, LLM evaluation (LLM-as-a-judge, golden sets, regression tests i
 
 <table align = "center">
    <tr>
-      <!-- Spaces gifs-->
+      <!-- Forward pass strip -->
  <div align = "center">
-         <img src = "Materials/space-strip.gif" width = "100%">
+         <img src = "Materials/neural-strip.svg" width = "100%">
       </div>
    </tr>
 </table>
