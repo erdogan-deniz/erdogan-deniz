@@ -195,14 +195,6 @@
    <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%B3%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B8%F0%9F%86%83%F0%9F%86%88" />
 </div>
 
-<!-- Codewars rank and profile views -->
-<p align = "center">
-   <a href = "https://www.codewars.com/users/Denzi33">
-      <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
-   </a>
-   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
-</p>
-
 <!-- All stats table -->
 <table height = "450px" align = "center">
    
@@ -279,3 +271,11 @@
       </div>
    </tr>
 </table>
+
+<!-- Codewars rank and profile views -->
+<p align = "center">
+   <a href = "https://www.codewars.com/users/Denzi33">
+      <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
+   </a>
+   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
+</p>
