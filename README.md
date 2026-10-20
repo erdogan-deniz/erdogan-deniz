@@ -212,18 +212,11 @@
       </td>
    </tr>
    
-   <!-- Languages, School 21 -->
+   <!-- Languages -->
    <tr>
       <td>
          <div align = "right">
             <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=en&hide_title=true">
-         </div>
-      </td>
-      <td>
-         <div align = "left">
-            <a href = "https://github.com/erdogan-deniz/school-21">
-               <img width = "100%" src = "https://github-readme-stats.vercel.app/api/pin/?username=erdogan-deniz&repo=school-21">
-            </a>
          </div>
       </td>
    </tr>
