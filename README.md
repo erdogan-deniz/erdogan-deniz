@@ -212,15 +212,6 @@
    <img src = "https://activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
 </div>
 
-<!-- Languages: framed like the stats table -->
-<table align = "center">
-   <tr>
-      <td width = "100%" align = "center">
-         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=en&hide_title=true&theme=tokyonight">
-      </td>
-   </tr>
-</table>
-
 <!-- Trophies -->
 <div align = "center">
    <img src = "https://github-profile-trophy.screw-hand.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
