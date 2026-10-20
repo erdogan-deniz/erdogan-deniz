@@ -56,7 +56,7 @@
          <img src = "https://www.codewars.com/users/Denzi33/badges/micro" />
       </a>
       <div align = "center" >
-         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8111F7&width=435&lines=%F0%9F%86%82%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B8%F0%9F%85%BE%F0%9F%86%81+%F0%9F%85%BC%F0%9F%85%BB+%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B6%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%81" />
+         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8111F7&width=640&lines=%F0%9F%86%82%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B8%F0%9F%85%BE%F0%9F%86%81+%F0%9F%85%BC%F0%9F%85%B0%F0%9F%85%B2%F0%9F%85%B7%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4+%F0%9F%85%BB%F0%9F%85%B4%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%BD%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B6%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%81" />
       </div>
    </tr>
    
