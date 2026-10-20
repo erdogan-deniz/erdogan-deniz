@@ -21,10 +21,10 @@
 🧑‍💻 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
 * Senior ML Engineer, based in Istanbul;
 * 5+ years in commercial ML: LLM systems, AI agents, classic ML and the backend around them;
-* Started out in open source, and GitHub is still where my own projects live;
 * BSc in Software Engineering;
-* Now doing an MSc in AI & Big Data;
 * Studied at School 21 (42 network);
+* Now doing an MSc in AI & Big Data;
+* Started out in open source, and GitHub is still where my own projects live;
 * Outside work I solve problems on Codewars and LeetCode;
 * My name means "sea" in Turkish. Deep learning came naturally.
 
