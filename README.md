@@ -12,7 +12,7 @@
       <div align = "center">
          <picture>
             <source media = "(prefers-color-scheme: dark)" srcset = "Materials/banner-dark.svg">
-            <img src = "Materials/banner-light.svg" width = "100%" alt = "Deniz Erdogan: LLM systems, AI agents, classic ML, backend">
+            <img src = "Materials/banner-light.svg" width = "100%" alt = "Deniz Erdogan: backend, classic ML, LLM systems, AI agents">
          </picture>
       </div>
    </tr>
