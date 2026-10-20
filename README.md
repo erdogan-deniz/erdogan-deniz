@@ -202,7 +202,7 @@
          <img width = "600" src = "https://github-readme-stats.vercel.app/api?username=erdogan-deniz&theme=tokyonight&show_icons=true&hide_border=true&locale=en&hide_title=true&hide_rank=true&hide=issues,contribs&show=prs_merged">
       </td>
       <td width = "50%">
-         <img width = "600" src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+         <img width = "600" src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&mode=weekly&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
       </td>
    </tr>
 </table>
