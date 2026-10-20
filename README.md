@@ -207,15 +207,19 @@
    </tr>
 </table>
 
-<!-- Streak -->
-<div align = "center">
-   <img src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
-</div>
-
 <!-- Activity graph -->
 <div align = "center">
    <img src = "https://activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
 </div>
+
+<!-- Streak: framed like the stats table -->
+<table align = "center">
+   <tr>
+      <td width = "100%" align = "center">
+         <img src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+      </td>
+   </tr>
+</table>
 
 <!-- Trophies -->
 <div align = "center">
