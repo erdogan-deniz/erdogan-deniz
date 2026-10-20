@@ -60,7 +60,7 @@
       </div>
    </tr>
    
-   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz" />
+   <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
 </table>
 
 <!-- All stats table-->
