@@ -195,53 +195,37 @@
    <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%B3%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B8%F0%9F%86%83%F0%9F%86%88" />
 </div>
 
-<!-- All stats table -->
-<table height = "450px" align = "center">
-   
-   <!-- Streak and main language -->
+<!-- GitHub stats and languages -->
+<table align = "center">
    <tr>
-      <td>
-         <div align = "right">
-            <img width = "100%" src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
-         </div>
+      <td width = "50%">
+         <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=erdogan-deniz&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=en&hide_title=true&langs_count=5">
       </td>
-      <td>
-         <div align = "left">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=erdogan-deniz&show=reviews_started&theme=tokyonight&show_icons=true&hide_border=true&locale=en&hide_title=true&langs_count=5">
-         </div>
+      <td width = "50%">
+         <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=en&hide_title=true&theme=tokyonight">
       </td>
-   </tr>
-   
-   <!-- Languages -->
-   <tr>
-      <td>
-         <div align = "right">
-            <img width = "100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan-deniz&layout=compact&hide_border=true&locale=en&hide_title=true">
-         </div>
-      </td>
-   </tr>
-   
-   <!-- Trophies -->
-   <tr>
-      <div align = "center">
-         <img src = "https://github-profile-trophy.screw-hand.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
-      </div>
-   </tr>
-   
-   <!-- Activity graph -->
-   <tr>
-      <div align = "center">
-         <img src = "https://activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
-      </div>
-   </tr>
-
-   <!-- LeetCode stats -->
-   <tr>
-      <div align = "center">
-         <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
-      </div>
    </tr>
 </table>
+
+<!-- Streak -->
+<div align = "center">
+   <img src = "http://github-readme-streak-stats.herokuapp.com?user=erdogan-deniz&theme=tokyonight&hide_border=true&border_radius=3&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=420">
+</div>
+
+<!-- Activity graph -->
+<div align = "center">
+   <img src = "https://activity-graph.vercel.app/graph?username=erdogan-deniz&theme=tokyo-night">
+</div>
+
+<!-- Trophies -->
+<div align = "center">
+   <img src = "https://github-profile-trophy.screw-hand.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+</div>
+
+<!-- LeetCode stats -->
+<div align = "center">
+   <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
+</div>
 
 <table align = "center">
    <tr>
