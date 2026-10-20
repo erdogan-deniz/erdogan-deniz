@@ -17,10 +17,10 @@
       </div>
    </tr>
    
-   <!-- Text: open to remote contracts -->
+   <!-- Text: building in the open -->
    <tr>
       <div align = "center" >
-         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3621&pause=2379&color=8111F7&width=420&lines=%F0%9F%85%BE%F0%9F%85%BF%F0%9F%85%B4%F0%9F%85%BD+%F0%9F%86%83%F0%9F%85%BE+%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%BC%F0%9F%85%BE%F0%9F%86%83%F0%9F%85%B4+%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%BD%F0%9F%86%83%F0%9F%86%81%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%86%82" />
+         <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3103&pause=2897&color=8111F7&width=360&lines=%F0%9F%85%B1%F0%9F%86%84%F0%9F%85%B8%F0%9F%85%BB%F0%9F%85%B3%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6+%F0%9F%85%B8%F0%9F%85%BD+%F0%9F%86%83%F0%9F%85%B7%F0%9F%85%B4+%F0%9F%85%BE%F0%9F%85%BF%F0%9F%85%B4%F0%9F%85%BD" />
       </div>
    </tr>
 </table>
@@ -30,7 +30,7 @@
 * I build production LLM systems that keep working after the demo: multi-agent architectures, RAG, fine-tuning, and the evaluation and monitoring around them;
 * Multi-agent incident investigation: 20x faster (30 min → 1.5 min), ~$240K/month saved;
 * Domain LLM inference at 230 ms per response (AWQ INT4 + vLLM);
-* Based in Istanbul, open to remote B2B contracts.
+* Based in Istanbul.
 
 🍋 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
 
