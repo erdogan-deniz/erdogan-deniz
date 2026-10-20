@@ -22,15 +22,15 @@
 * Senior ML Engineer, based in Istanbul;
 * 5+ years in commercial ML: LLM systems, AI agents, classic ML and the backend around them;
 * BSc in Software Engineering;
-* Studied at School 21 (42 network);
+* Studied at School 21 (42 Network);
 * Now doing an MSc in AI & Big Data;
 * Started out in open source, and GitHub is still where my own projects live;
 * Outside work I solve problems on Codewars and LeetCode;
 * My name means "sea" in Turkish. Deep learning came naturally.
 
 📬 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕤:
-* Reach me: <a href = "https://www.linkedin.com/in/deniz-erdogan-ml/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt = "LinkedIn" align = "absmiddle" /></a> <a href = "https://t.me/deniz_erdogan"><img src = "https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" align = "absmiddle" /></a> <a href = "mailto:deniz.erdogan.ml@gmail.com"><img src = "https://img.shields.io/badge/deniz.erdogan.ml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail" align = "absmiddle" /></a>
-* ML profiles: <a href = "https://www.kaggle.com/erdogandeniz"><img src = "https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02IDJoMy42djExLjJMMTYuNCA2SDIxbC03LjIgNy40TDIxLjUgMjJoLTQuNmwtNS42LTYuNi0xLjcgMS43VjIySDZ6Ii8%2BPC9zdmc%2B" alt = "Kaggle" align = "absmiddle" /></a> <a href = "https://huggingface.co/deniz-erdogan"><img src = "https://img.shields.io/badge/hugging%20face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt = "Hugging Face" align = "absmiddle" /></a>
+* Reach Me: <a href = "https://www.linkedin.com/in/deniz-erdogan-ml/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt = "LinkedIn" align = "absmiddle" /></a> <a href = "https://t.me/deniz_erdogan"><img src = "https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" align = "absmiddle" /></a> <a href = "mailto:deniz.erdogan.ml@gmail.com"><img src = "https://img.shields.io/badge/deniz.erdogan.ml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail" align = "absmiddle" /></a>
+* ML Profiles: <a href = "https://www.kaggle.com/erdogandeniz"><img src = "https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02IDJoMy42djExLjJMMTYuNCA2SDIxbC03LjIgNy40TDIxLjUgMjJoLTQuNmwtNS42LTYuNi0xLjcgMS43VjIySDZ6Ii8%2BPC9zdmc%2B" alt = "Kaggle" align = "absmiddle" /></a> <a href = "https://huggingface.co/deniz-erdogan"><img src = "https://img.shields.io/badge/hugging%20face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt = "Hugging Face" align = "absmiddle" /></a>
 
 🧰 𝕊𝕥𝕒𝕔𝕜:
 
@@ -205,10 +205,10 @@
    <img src = "https://komarev.com/ghpvc/?username=erdogan-deniz&label=Profile+views" />
 </p>
 
-<!-- All stats table-->
+<!-- All stats table -->
 <table height = "450px" align = "center">
    
-   <!-- Streak and main launguge -->
+   <!-- Streak and main language -->
    <tr>
       <td>
          <div align = "right">
@@ -222,7 +222,7 @@
       </td>
    </tr>
    
-   <!-- Launguages, school 21 -->
+   <!-- Languages, School 21 -->
    <tr>
       <td>
          <div align = "right">
