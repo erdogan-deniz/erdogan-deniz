@@ -223,9 +223,13 @@
 </div>
 
 <!-- LeetCode stats -->
-<div align = "center">
-   <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
-</div>
+<table align = "center">
+   <tr>
+      <td width = "100%" align = "center">
+         <img src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
+      </td>
+   </tr>
+</table>
 
 <table align = "center">
    <tr>
