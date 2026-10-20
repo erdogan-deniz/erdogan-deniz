@@ -34,24 +34,168 @@
 
 🍋 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
 
-LLM agents, RAG, LLM evaluation (LLM-as-a-judge, golden sets, regression tests in CI), vLLM, quantization, PyTorch, Python, C++, MLOps.
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-%2330A2FF.svg?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<!-- Stack table: one row per group -->
+<table>
+   <tr>
+      <td><b>LLM&nbsp;systems</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/multi--agent-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/RAG-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/LangChain-8111F7?style=for-the-badge&logo=langchain&logoColor=white" />
+         <img src = "https://img.shields.io/badge/LangGraph-8111F7?style=for-the-badge&logo=langgraph&logoColor=white" />
+         <img src = "https://img.shields.io/badge/Pydantic-8111F7?style=for-the-badge&logo=pydantic&logoColor=white" />
+         <img src = "https://img.shields.io/badge/Hugging%20Face-8111F7?style=for-the-badge&logo=huggingface&logoColor=white" />
+         <img src = "https://img.shields.io/badge/PEFT%20%2F%20QLoRA-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/TRL%20%2F%20DPO-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Whisper-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/vLLM-8111F7?style=for-the-badge&logo=vllm&logoColor=white" />
+         <img src = "https://img.shields.io/badge/SGLang-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/AWQ%20quantization-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/pgvector-8111F7?style=for-the-badge" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Evaluation</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/LLM--as--a--judge-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/golden%20sets-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/RAGAS-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/regression%20tests%20in%20CI-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/A%2FB%20testing-8111F7?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/model%20monitoring-8111F7?style=for-the-badge" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Observability</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/Prometheus-1a1b27?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
+         <img src = "https://img.shields.io/badge/Grafana-1a1b27?style=for-the-badge&logo=grafana&logoColor=F46800" />
+         <img src = "https://img.shields.io/badge/OpenTelemetry-1a1b27?style=for-the-badge&logo=opentelemetry&logoColor=F5A800" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Data&nbsp;&amp;&nbsp;MLOps</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/MLflow-1a1b27?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
+         <img src = "https://img.shields.io/badge/Airflow-1a1b27?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
+         <img src = "https://img.shields.io/badge/Kafka-1a1b27?style=for-the-badge&logo=apachekafka&logoColor=white" />
+         <img src = "https://img.shields.io/badge/Trino-1a1b27?style=for-the-badge&logo=trino&logoColor=DD00A1" />
+         <img src = "https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=6D9EEB" />
+         <img src = "https://img.shields.io/badge/Alembic-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=FF4438" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Backend&nbsp;&amp;&nbsp;DevOps</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=009688" />
+         <img src = "https://img.shields.io/badge/Flask-1a1b27?style=for-the-badge&logo=flask&logoColor=white" />
+         <img src = "https://img.shields.io/badge/gRPC-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" />
+         <img src = "https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+         <img src = "https://img.shields.io/badge/Nginx-1a1b27?style=for-the-badge&logo=nginx&logoColor=009639" />
+         <img src = "https://img.shields.io/badge/GitHub%20Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+         <img src = "https://img.shields.io/badge/GitLab%20CI-1a1b27?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+         <img src = "https://img.shields.io/badge/Jenkins-1a1b27?style=for-the-badge&logo=jenkins&logoColor=D24939" />
+         <img src = "https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FCC624" />
+         <img src = "https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Testing&nbsp;&amp;&nbsp;quality</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/pytest-1a1b27?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
+         <img src = "https://img.shields.io/badge/Hypothesis-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/GoogleTest-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Ruff-1a1b27?style=for-the-badge&logo=ruff&logoColor=D7FF64" />
+         <img src = "https://img.shields.io/badge/mypy-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/pre--commit-1a1b27?style=for-the-badge&logo=precommit&logoColor=FAB040" />
+         <img src = "https://img.shields.io/badge/Vitest-1a1b27?style=for-the-badge&logo=vitest&logoColor=8DC63F" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Deep&nbsp;learning</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+         <img src = "https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+         <img src = "https://img.shields.io/badge/DeepSpeed-1a1b27?style=for-the-badge" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>ML&nbsp;&amp;&nbsp;data</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+         <img src = "https://img.shields.io/badge/XGBoost-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/LightGBM-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/CatBoost-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/LightAutoML-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/statsmodels-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Optuna-1a1b27?style=for-the-badge&logo=optuna&logoColor=4C8CBF" />
+         <img src = "https://img.shields.io/badge/SHAP-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+         <img src = "https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=E70488" />
+         <img src = "https://img.shields.io/badge/SciPy-1a1b27?style=for-the-badge&logo=scipy&logoColor=8CAAE6" />
+         <img src = "https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>NLP</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/spaCy-1a1b27?style=for-the-badge&logo=spacy&logoColor=09A3D5" />
+         <img src = "https://img.shields.io/badge/NLTK-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/gensim-1a1b27?style=for-the-badge" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Visualization</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/Matplotlib-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Seaborn-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Plotly-1a1b27?style=for-the-badge&logo=plotly&logoColor=7A76FF" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Graphics&nbsp;&amp;&nbsp;desktop</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/Unity-1a1b27?style=for-the-badge&logo=unity&logoColor=white" />
+         <img src = "https://img.shields.io/badge/Qt-1a1b27?style=for-the-badge&logo=qt&logoColor=41CD52" />
+         <img src = "https://img.shields.io/badge/PyQt-1a1b27?style=for-the-badge&logo=qt&logoColor=41CD52" />
+         <img src = "https://img.shields.io/badge/OpenGL-1a1b27?style=for-the-badge&logo=opengl&logoColor=5586A4" />
+         <img src = "https://img.shields.io/badge/GLSL-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/CMake-1a1b27?style=for-the-badge&logo=cmake&logoColor=6CA0DC" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Web</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+         <img src = "https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB" />
+         <img src = "https://img.shields.io/badge/Tailwind%20CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+         <img src = "https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" />
+      </td>
+   </tr>
+   <tr>
+      <td><b>Languages</b></td>
+      <td>
+         <img src = "https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=FFD43B" />
+         <img src = "https://img.shields.io/badge/C%2B%2B-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=659AD2" />
+         <img src = "https://img.shields.io/badge/C-1a1b27?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+         <img src = "https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge" />
+         <img src = "https://img.shields.io/badge/Bash-1a1b27?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+         <img src = "https://img.shields.io/badge/C%23-1a1b27?style=for-the-badge&logo=dotnet&logoColor=9B7BEA" />
+         <img src = "https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=4A90E2" />
+         <img src = "https://img.shields.io/badge/Haskell-1a1b27?style=for-the-badge&logo=haskell&logoColor=B48EAD" />
+         <img src = "https://img.shields.io/badge/Cython-1a1b27?style=for-the-badge" />
+      </td>
+   </tr>
+</table>
 
 📬 ℂ𝕠𝕟𝕥𝕒𝕔𝕥:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-erdogan-ml/)
 [![Gmail](https://img.shields.io/badge/deniz.erdogan.ml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deniz.erdogan.ml@gmail.com)
+
+📊 𝕊𝕥𝕒𝕥𝕤:
 
 <!-- Codewars rank and profile views -->
 <p align = "center">
