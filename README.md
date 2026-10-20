@@ -3,43 +3,7 @@
    <tr>
       <!-- Spaces gifs-->
       <div align = "center">
-         <a href = "https://github.com/erdogan-deniz/erdogan-deniz/blob/main/Materials/Space.gif">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-         </a>
+         <img src = "Materials/space-strip.gif" width = "100%">
       </div>
    </tr>
 
@@ -163,43 +127,7 @@ LLM agents, RAG, LLM evaluation (LLM-as-a-judge, golden sets, regression tests i
    <tr>
       <!-- Spaces gifs-->
  <div align = "center">
-         <a href = "https://github.com/erdogan-deniz/erdogan-deniz/blob/main/Materials/Space.gif">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "21" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-            <img src = "Materials/Space.gif" width = "20" height = "20">
-         </a>
+         <img src = "Materials/space-strip.gif" width = "100%">
       </div>
    </tr>
 </table>
