@@ -21,7 +21,6 @@
 🧑‍💻 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
 * Senior ML Engineer, based in Istanbul;
 * 5+ years in commercial ML: LLM systems, AI agents, classic ML and the backend around them;
-* I care about doing the work properly: tests, evaluation and monitoring come with the model, not after it;
 * Started out in open source, and GitHub is still where my own projects live;
 * BSc in Software Engineering;
 * Now doing an MSc in AI & Big Data;
