@@ -28,6 +28,10 @@
 * Outside work I solve problems on Codewars and LeetCode;
 * My name means "sea" in Turkish. Deep learning came naturally.
 
+📬 ℂ𝕠𝕟𝕥𝕒𝕔𝕥:
+* <a href = "https://www.linkedin.com/in/deniz-erdogan-ml/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn" align = "absmiddle" /></a>
+* <a href = "mailto:deniz.erdogan.ml@gmail.com"><img src = "https://img.shields.io/badge/deniz.erdogan.ml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail" align = "absmiddle" /></a>
+
 🧰 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
 
 <!-- Stack table: one row per group -->
@@ -185,11 +189,6 @@
       </td>
    </tr>
 </table>
-
-📬 ℂ𝕠𝕟𝕥𝕒𝕔𝕥:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-erdogan-ml/)
-[![Gmail](https://img.shields.io/badge/deniz.erdogan.ml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deniz.erdogan.ml@gmail.com)
 
 📊 𝕊𝕥𝕒𝕥𝕤:
 
