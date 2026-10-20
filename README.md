@@ -226,7 +226,7 @@
 <table align = "center">
    <tr>
       <td width = "100%" align = "center">
-         <img width = "1200" src = "https://leetcode-stats-six.vercel.app/api?username=deniz_erdogan&theme=dark">
+         <img width = "1200" src = "https://leetcard.jacoblin.cool/deniz_erdogan?theme=dark&border=0&radius=4.5&colors=1a1b27,2a2e42,70a5fd,38bdae,bf91f3,38bdae,e0af68,f7768e">
       </td>
    </tr>
 </table>
