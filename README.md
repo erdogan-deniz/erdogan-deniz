@@ -18,14 +18,14 @@
    </tr>
 </table>
 
-𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
+🧑‍💻 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:
 * Senior ML Engineer, 6+ years in ML, 5+ of them commercial;
 * I build production LLM systems that keep working after the demo: multi-agent architectures, RAG, fine-tuning, and the evaluation and monitoring around them;
 * Multi-agent incident investigation: 20x faster (30 min → 1.5 min), ~$240K/month saved;
 * Domain LLM inference at 230 ms per response (AWQ INT4 + vLLM);
 * Based in Istanbul.
 
-🍋 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
+🧰 𝕊𝕥𝕒𝕔𝕜 𝕥𝕠𝕠𝕝𝕤:
 
 <!-- Stack table: one row per group -->
 <table>
