@@ -209,7 +209,7 @@
 
 <!-- Trophies -->
 <div align = "center">
-   <img src = "https://github-profile-trophy.screw-hand.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true">
+   <img width = "100%" src = "https://github-profile-trophy.screw-hand.vercel.app/?username=erdogan-deniz&theme=tokyonight&column=-1&no-bg=true&no-frame=true&title=Commits,MultiLanguage,LongTimeUser,PullRequest">
 </div>
 
 <!-- Activity graph -->
