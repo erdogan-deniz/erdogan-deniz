@@ -3,7 +3,7 @@
    <tr>
       <!-- Forward pass strip -->
       <div align = "center">
-         <img src = "Materials/neural-strip.svg" width = "100%">
+         <img src = "materials/neural-strip.svg" width = "100%">
       </div>
    </tr>
 
@@ -11,8 +11,8 @@
    <tr>
       <div align = "center">
          <picture>
-            <source media = "(prefers-color-scheme: dark)" srcset = "Materials/banner-dark.svg">
-            <img src = "Materials/banner-light.svg" width = "100%" alt = "Deniz Erdogan: backend, classic ML, LLM systems, AI agents">
+            <source media = "(prefers-color-scheme: dark)" srcset = "materials/banner-dark.svg">
+            <img src = "materials/banner-light.svg" width = "100%" alt = "Deniz Erdogan: backend, classic ML, LLM systems, AI agents">
          </picture>
       </div>
    </tr>
@@ -235,7 +235,7 @@
    <tr>
       <!-- Forward pass strip -->
  <div align = "center">
-         <img src = "Materials/neural-strip.svg" width = "100%">
+         <img src = "materials/neural-strip.svg" width = "100%">
       </div>
    </tr>
 </table>
