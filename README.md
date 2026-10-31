@@ -21,7 +21,7 @@
 🧑‍💻 𝔸𝕓𝕠𝕦𝕥:
 * Senior ML Engineer, based in Istanbul;
 * 5+ years in commercial ML: LLM systems, AI agents, classic ML and the backend around them;
-* BSc in Software Engineering;
+* Bachelor's degree, Informatics and Computer Engineering (with honours);
 * Studied at School 21 (42 Network);
 * Now doing an MSc in AI & Big Data;
 * Started out in open source, and GitHub is still where my own projects live;
