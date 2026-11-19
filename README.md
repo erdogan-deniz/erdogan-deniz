@@ -190,6 +190,11 @@
    </tr>
 </table>
 
+🌍 𝕆𝕡𝕖𝕟 𝕊𝕠𝕦𝕣𝕔𝕖:
+* <a href = "https://github.com/mlflow/mlflow">MLflow</a>: fixed dead links in the LlamaIndex, OpenAI, Goose and Koog docs (<a href = "https://github.com/mlflow/mlflow/pull/27376">#27376</a>, <a href = "https://github.com/mlflow/mlflow/pull/27430">#27430</a>);
+* <a href = "https://github.com/dmlc/xgboost">XGBoost</a>: fixed dead links in the ranking and Dask-CUDA docs (<a href = "https://github.com/dmlc/xgboost/pull/12781">#12781</a>);
+* <a href = "https://github.com/deepset-ai/haystack">Haystack</a>: fixed dead Chroma links in the document store docs (<a href = "https://github.com/deepset-ai/haystack/pull/13514">#13514</a>).
+
 <!-- GitHub activity heading: typing line -->
 <div align = "center">
    <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2328&pause=3672&color=8111F7&width=270&lines=%F0%9F%85%B6%F0%9F%85%B8%F0%9F%86%83%F0%9F%85%B7%F0%9F%86%84%F0%9F%85%B1+%F0%9F%85%B0%F0%9F%85%B2%F0%9F%86%83%F0%9F%85%B8%F0%9F%86%85%F0%9F%85%B8%F0%9F%86%83%F0%9F%86%88" />
